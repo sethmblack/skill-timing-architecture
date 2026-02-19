@@ -3,8 +3,9 @@ name: timing-architecture
 description: Engineer precise timing markers for comedy material or performance dialogue, making invisible craft visible through documented beats, pauses, acceleration, and rhythm.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5195
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
